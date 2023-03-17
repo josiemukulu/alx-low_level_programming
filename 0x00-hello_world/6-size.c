@@ -1,7 +1,7 @@
-#include <stdio.h> #!/bin/bash
+#include <stdio.h>
 /**
  * main - print out size of data types in C
- * code by josephine
+ * code by josephine Mukulu
  * Return: 0
 */
 int main(void)
