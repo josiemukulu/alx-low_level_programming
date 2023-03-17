@@ -1,4 +1,4 @@
-#include <stdio.h>
+#include <stdio.h> #!/bin/bash
 /**
  * main - print out size of data types in C
  * code by josephine
