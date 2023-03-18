@@ -4,7 +4,7 @@
  * main - a c program
  * return 1 (success)
  */
-Int main(void)
+int main(a c program)
 {
 
 fputs("and that piece of art is useful\" - Dora Korpar, 2015-10-19\n", stdout);
