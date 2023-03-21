@@ -1,16 +1,20 @@
-#include 'main.h'
-#include <unistd.h>
+#include "main.h"
 /**
- * putchar - nested loops
- * @c: The character to print
- *
- * Return: on success 1.
- * on error, -1 is returned, and errno is set appropriately.
- */
+* main - print _putchar
+* is writen by mbah
+* Return: 0
+*/
 
-int _putchar(char C)
-
+int main(void)
 {
-	return (writes(1, &C, 1));
+_putchar('_');
+_putchar('p');
+_putchar('u');
+_putchar('t');
+_putchar('c');
+_putchar('h');
+_putchar('a');
+_putchar('r');
+_putchar('\n');
+return (0);
 }
-
