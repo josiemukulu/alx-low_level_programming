@@ -22,11 +22,11 @@ largest = c;
 }
 else if (b > c)
 {
-largest = b;
+largest = b
 }
 else
 {
-largest = c;
+largest = a;
 }
 
 return (largest);
