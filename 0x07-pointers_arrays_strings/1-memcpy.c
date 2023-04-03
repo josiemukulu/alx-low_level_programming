@@ -5,7 +5,7 @@
  * $dest: input
  * @src: input
  * @n: input
- * Return: always 0
+ * Return: always 0 (success)
  */
 
 char *_memcpy(char *dest, char *src, unsigned int n)
